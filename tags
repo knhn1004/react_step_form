@@ -1,0 +1,50 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+App	src/App.js	/^function App() {$/;"	f
+CHANGE_TITLE	src/store.js	/^export const CHANGE_TITLE = 'CHANGE_TITLE'$/;"	n
+Change	src/components/FormPersonalDetails.js	/^        onChange={handleChange}$/;"	c
+Change	src/components/FormUserDetails.js	/^        onChange={handleChange}$/;"	c
+Change	src/components/UserForm.js	/^          handleChange={handleChange}$/;"	c
+Click	src/components/FormPersonalDetails.js	/^        onClick={proceed}$/;"	c
+Click	src/components/FormPersonalDetails.js	/^      <RaisedButton label="Back" style={styles.button} onClick={back} \/>$/;"	c
+Click	src/components/FormUserDetails.js	/^        onClick={proceed}$/;"	c
+Confirm	src/components/Confirm.js	/^const Confirm = () => {$/;"	c
+Element	src/App.test.js	/^  const linkElement = getByText(\/learn react\/i);$/;"	c
+FormUserDetails	src/components/FormPersonalDetails.js	/^const FormUserDetails = ({ nextStep, prevStep, values, handleChange }) => {$/;"	c
+FormUserDetails	src/components/FormUserDetails.js	/^const FormUserDetails = ({ nextStep, values, handleChange }) => {$/;"	c
+Localhost	src/serviceWorker.js	/^const isLocalhost = Boolean($/;"	c
+State	src/store.js	/^const initialState = {$/;"	c
+Step	src/components/UserForm.js	/^	  prevStep={prevStep}$/;"	c
+Step	src/components/UserForm.js	/^          nextStep={nextStep}$/;"	c
+Step	src/components/UserForm.js	/^  const nextStep = () => {$/;"	c
+Step	src/components/UserForm.js	/^  const prevStep = () => {$/;"	c
+Success	src/components/Success.js	/^const Success = () => {$/;"	c
+UserForm	src/components/UserForm.js	/^const UserForm = () => {$/;"	c
+Value	src/components/FormPersonalDetails.js	/^        defaultValue={values.bio}$/;"	c
+Value	src/components/FormPersonalDetails.js	/^        defaultValue={values.city}$/;"	c
+Value	src/components/FormPersonalDetails.js	/^        defaultValue={values.occupation}$/;"	c
+Value	src/components/FormUserDetails.js	/^        defaultValue={values.email}$/;"	c
+Value	src/components/FormUserDetails.js	/^        defaultValue={values.firstName}$/;"	c
+Value	src/components/FormUserDetails.js	/^        defaultValue={values.lastName}$/;"	c
+button	src/components/FormPersonalDetails.js	/^  button: {$/;"	o
+button	src/components/FormUserDetails.js	/^  button: {$/;"	o
+checkValidServiceWorker	src/serviceWorker.js	/^function checkValidServiceWorker(swUrl, config) {$/;"	f
+headers	src/serviceWorker.js	/^    headers: { 'Service-Worker': 'script' },$/;"	o
+if	src/serviceWorker.js	/^              if (config && config.onSuccess) {$/;"	f
+if	src/serviceWorker.js	/^              if (config && config.onUpdate) {$/;"	f
+if	src/serviceWorker.js	/^            if (navigator.serviceWorker.controller) {$/;"	f
+if	src/serviceWorker.js	/^          if (installingWorker.state === 'installed') {$/;"	f
+if	src/serviceWorker.js	/^        if (installingWorker == null) {$/;"	f
+if	src/serviceWorker.js	/^      if (isLocalhost) {$/;"	f
+if	src/serviceWorker.js	/^    if (publicUrl.origin !== window.location.origin) {$/;"	f
+if	src/serviceWorker.js	/^  if ('serviceWorker' in navigator) {$/;"	f
+if	src/serviceWorker.js	/^  if (process.env.NODE_ENV === 'production' && 'serviceWorker' in navigator) {$/;"	f
+register	src/serviceWorker.js	/^export function register(config) {$/;"	f
+registerValidSW	src/serviceWorker.js	/^function registerValidSW(swUrl, config) {$/;"	f
+switch	src/components/UserForm.js	/^  switch (step) {$/;"	f
+switch	src/store.js	/^  switch (action.type) {$/;"	f
+unregister	src/serviceWorker.js	/^export function unregister() {$/;"	f
